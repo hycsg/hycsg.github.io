@@ -1,3 +1,3 @@
-# Houston-Youth-Computer-Science-Group (website) (broken and undeployable atm)
+# Houston-Youth-Computer-Science-Group (website) 
 
-Website for the group..
+Website for the group
